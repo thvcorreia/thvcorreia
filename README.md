@@ -3,7 +3,6 @@
 🌱 I’m currently learning to develop in C, C++, pythom and Ruby.<br>
 💞️ I’m looking to collaborate on developing of sistems and aplications.<br>
 📫 How to reach me, Brazil - Rio Grande do Norte - Natal, <br>
-![image](https://user-images.githubusercontent.com/77904384/121103427-4e913500-c7d6-11eb-8c36-ead93d689ee3.png)
 Email - thvcorreia@hotmail.com <br> 
 Linkedin - https://www.linkedin.com/in/thiago-valentim-correia-5331691b5/
 <!---
