@@ -30,7 +30,7 @@ You can click the Preview link to take a look at your changes.
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Thiago Valentim](https://img.shields.io/badge/-ThiagoValentim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-valentim-correia-5331691b5/)](https://www.linkedin.com/in/thiago-valentim-correia-5331691b5/)
-[![Gmail Badge](https://img.shields.io/badge/-thvcorreia@hotmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thvcorreia@hotmail.com)](mailto:thvcorreia@hotmail.com)
-[![GitHub Thiago Valentim]( https://img.shields.io/github/followers/thvcorreia?label=follow&style=social)](https://github.com/thvcorreia)
+[![Linkedin: Thiago Valentim](https://img.shields.io/badge/-ThiagoValentim-333333?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-valentim-correia-5331691b5/)](https://www.linkedin.com/in/thiago-valentim-correia-5331691b5/)
+[![Gmail Badge](https://img.shields.io/badge/-thvcorreia@hotmail.com-333333?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thvcorreia@hotmail.com)](mailto:thvcorreia@hotmail.com)
+[![GitHub Thiago Valentim]( https://img.shields.io/github/followers/thvcorreia-333333?label=follow&style=social&logoColor=white)](https://github.com/thvcorreia)
 
