@@ -32,5 +32,5 @@ You can click the Preview link to take a look at your changes.
 
 [![Linkedin: Thiago Valentim](https://img.shields.io/badge/-ThiagoValentim-333333?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-valentim-correia-5331691b5/)](https://www.linkedin.com/in/thiago-valentim-correia-5331691b5/)
 [![Gmail Badge](https://img.shields.io/badge/-thvcorreia@hotmail.com-333333?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thvcorreia@hotmail.com)](mailto:thvcorreia@hotmail.com)
-[![GitHub Thiago Valentim]( https://img.shields.io/github/followers/thvcorreia-333333?label=follow&style=social&logoColor=white)](https://github.com/thvcorreia)
+[![GitHub Thiago Valentim]( https://img.shields.io/github/followers/thvcorreia?label=follow&style=social&logoColor=white)](https://github.com/thvcorreia)
 
