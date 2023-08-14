@@ -19,7 +19,7 @@
   ![PyCharn](https://img.shields.io/badge/-PyCharn-333333?style=flat&logo=pycharm&logoColor=white)
   ![Anaconda](https://img.shields.io/badge/-Anaconda-333333?style=flat&logo=anaconda&logoColor=white)
   ![R Studio](https://img.shields.io/badge/-R_Studio-333333?style=flat&logo=rstudio&logoColor=white)
-  ![JavScript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=javascript&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=nodedotjs&logoColor=white)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=white)
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=white)
 <!---
