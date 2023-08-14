@@ -1,6 +1,6 @@
 👋 Hi, I’m @thvcorreia. <br>
-👀 I’m interested in ser programmer. <br>
-🌱 I’m currently learning to develop in C, C++, pythom and Ruby.<br>
+👀 I’m interested in Data Science. <br>
+🌱 I’m currently learning to develop in Python, R, JavaScript.<br>
 💞️ I’m looking to collaborate on developing of sistems and aplications.<br>
 📫 How to reach me, Brazil - Rio Grande do Norte - Natal, <br>
 
