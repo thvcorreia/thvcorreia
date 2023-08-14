@@ -4,13 +4,11 @@
 💞️ I’m looking to collaborate on developing of sistems and aplications.<br>
 📫 How to reach me, Brazil - Rio Grande do Norte - Natal, <br>
 
-**Aplicações e Dados**
+**Linguagens**
 
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=white)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python&logoColor=white)
-  ![Ruby](https://img.shields.io/badge/Ruby-333333?style=flat&logo=ruby&logoColor=white)
+  ![R](https://img.shields.io/badge/R-333333?style=flat&logo=R&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript&logoColor=white)
   ![PHP](https://img.shields.io/badge/PHP-333333?style=flat&logo=php&logoColor=white)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5&logoColor=white)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=white)
@@ -18,12 +16,12 @@
 
 **Ferramentas de Desenvolvimento**
 
-  ![PyCharn](https://img.shields.io/badge/-PyCharn-333333?style=flat&logo=pycharm&logoColor=007ACC)
-  ![Anaconda](https://img.shields.io/badge/-Anaconda-333333?style=flat&logo=anaconda&logoColor=007ACC)
-  ![R Studio](https://img.shields.io/badge/-R_Studio-333333?style=flat&logo=rstudio&logoColor=007ACC)
-  ![JavScript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=javascript&logoColor=007ACC)
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+  ![PyCharn](https://img.shields.io/badge/-PyCharn-333333?style=flat&logo=pycharm&logoColor=white)
+  ![Anaconda](https://img.shields.io/badge/-Anaconda-333333?style=flat&logo=anaconda&logoColor=white)
+  ![R Studio](https://img.shields.io/badge/-R_Studio-333333?style=flat&logo=rstudio&logoColor=white)
+  ![JavScript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=javascript&logoColor=white)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=white)
+  ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=white)
 <!---
 thvcorreia/thvcorreia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
