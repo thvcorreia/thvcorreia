@@ -18,6 +18,10 @@
 
 **Ferramentas de Desenvolvimento**
 
+  ![PyCharn](https://img.shields.io/badge/-PyCharn-333333?style=flat&logo=pycharm&logoColor=007ACC)
+  ![Anaconda](https://img.shields.io/badge/-Anaconda-333333?style=flat&logo=anaconda&logoColor=007ACC)
+  ![R Studio](https://img.shields.io/badge/-R_Studio-333333?style=flat&logo=rstudio&logoColor=007ACC)
+  ![JavScript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=javascript&logoColor=007ACC)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 <!---
