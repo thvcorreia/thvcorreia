@@ -1,4 +1,4 @@
-👋 Hi, I’m @thvcorreia. <br>
+👋 Hi, I’m Thiago Valentim. <br>
 👀 I’m interested in Data Science. <br>
 🌱 I’m currently learning to develop in Python, R, JavaScript.<br>
 💞️ I’m looking to collaborate on developing of sistems and aplications.<br>
