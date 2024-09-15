@@ -7,8 +7,7 @@
 
 ### About me
 
-<font align='center'>I'm a passionate technology professional dedicated to driving innovation through development, data analysis and effective solutions. With over 10 years of IT experience and a solid foundation in programming and infrastructure, I am continually looking for challenges to develop and improve myself.
-Currently, I am developing myself in Python, NumPy, Pandas, studying R and English, focusing on Data Science.</font>
+<font align='center'>I am a passionate technology professional with advanced proficiency in Spanish, specialized in driving innovation through robust infrastructure, cybersecurity, and data analysis. With over 10 years of IT experience, I have a solid foundation in programming, systems architecture, and a strong commitment to data protection and information security. Currently, I am enhancing my skills in Python and Cloud platforms like Azure, while also studying Data Science. I am always seeking new challenges to improve my skills and develop effective and secure technological solutions.</font>
 
 ### Conecte-se comigo
 
