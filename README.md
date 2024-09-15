@@ -7,7 +7,7 @@
 
 ### About me
 
-<font align='center'>I'm a passionate technology professional dedicated to driving innovation through development, data analysis and effective solutions. With over 8 years of IT experience and a solid foundation in programming and infrastructure, I am continually looking for challenges to develop and improve myself.
+<font align='center'>I'm a passionate technology professional dedicated to driving innovation through development, data analysis and effective solutions. With over 10 years of IT experience and a solid foundation in programming and infrastructure, I am continually looking for challenges to develop and improve myself.
 Currently, I am developing myself in Python, NumPy, Pandas, studying R and English, focusing on Data Science.</font>
 
 ### Conecte-se comigo
