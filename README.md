@@ -18,7 +18,6 @@
 ### Linguagens
 
   ![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python&logoColor=white)
-  ![R](https://img.shields.io/badge/R-333333?style=flat&logo=R&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript&logoColor=white)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=white)
   ![Git](https://img.shields.io/badge/GIT-333333?style=flat&logo=git&logoColor=white)
@@ -28,7 +27,6 @@
 
   ![PyCharn](https://img.shields.io/badge/-PyCharn-333333?style=flat&logo=pycharm&logoColor=white)
   ![Anaconda](https://img.shields.io/badge/-Anaconda-333333?style=flat&logo=anaconda&logoColor=white)
-  ![R Studio](https://img.shields.io/badge/-R_Studio-333333?style=flat&logo=rstudio&logoColor=white)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=nodedotjs&logoColor=white)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-333333?style=flat&logo=github&logoColor=white)
