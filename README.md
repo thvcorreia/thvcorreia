@@ -11,7 +11,7 @@
 
 ### Conecte-se comigo
 
-  [![LinkedIn](Texto aqui)](https://www.linkedin.com/in/thiago-valentim-correia-5331691b5/)
+  [!(Texto aqui)](https://www.linkedin.com/in/thiago-valentim-correia-5331691b5/)
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-333333?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-valentim-correia-5331691b5/)
   [![E-mail](https://img.shields.io/badge/-Email-333333?style=flat&logo=microsoft-outlook&logoColor=007BFF)](mailto:thvcorreia@hotmail.com)
