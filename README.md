@@ -1,7 +1,7 @@
 👋 Hi, I’m Thiago Valentim. <br>
 🔐 I’m interested in Cybersecurity. <br>
 👀 I’m interested in Data Science. <br>
-🌱 I’m currently learning to develop in Python, R, JavaScript.<br>
+🌱 I’m currently learning to develop in Cybersecurity, Python, IA.<br>
 💞️ I’m looking to collaborate on developing of sistems and aplications.<br>
 📫 How to reach me, Brazil - Rio Grande do Norte - Natal, <br>
 
